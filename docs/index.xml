@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChannelAdam Homepage on ChannelAdam</title>
+    <link>https://channeladam.com/</link>
+    <description>Recent content in ChannelAdam Homepage on ChannelAdam</description>
+    <language>en-au</language>
+    
+    
+    
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://channeladam.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Purpose of life framework</title>
+      <link>https://channeladam.com/purpose-of-life-framework/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://channeladam.com/purpose-of-life-framework/</guid>
+      <description>What is your purpose in life? Here is one possible way to inspire you.</description>
+    </item>
+    
+    <item>
+      <title>Australian Free-to-Air TV</title>
+      <link>https://channeladam.com/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://channeladam.com/tv/</guid>
+      <description>Links to all the Australian free-to-air TV stations.</description>
+    </item>
+    
+  </channel>
+</rss>
